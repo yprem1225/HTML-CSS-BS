@@ -2,3 +2,19 @@
 h1,h2{
     color: blueviolet;
 }
+
+div>p{
+    color: red;
+}
+
+div li{ 
+    color: blue;
+}
+
+ul>p{
+    font-size: 3rem;
+}
+
+ul+p{
+    color: black;
+}
