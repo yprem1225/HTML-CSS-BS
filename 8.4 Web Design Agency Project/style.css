@@ -10,6 +10,10 @@ body {
   flex: 1;
 }
 
+.logo{
+  margin-left: 20px;
+}
+
 h1 {
   font-size: 5rem;
   margin-left: 20px;
